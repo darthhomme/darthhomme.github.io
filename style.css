@@ -1,0 +1,27 @@
+body{
+  background-color: #7ec0ee;
+  color: #ffffff;
+  font-family: 'Montserrat', Helvetica;
+}
+
+.header{
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+  height: 125px;
+}
+
+.image-container{
+  height: 500px;
+  background-image: url('http://i.imgur.com/gkLG43j.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*.gif-one{
+  height: 25px;
+  width: 25px;
+  background-image: url('http://i.imgur.com/2iZXVAS.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}*/
