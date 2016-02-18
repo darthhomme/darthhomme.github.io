@@ -1,7 +1,9 @@
-body{
+.container{
   background-color: #7ec0ee;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c3/Joshua_tree_keys_view_pano_more_vertical.jpg');
   color: #ffffff;
   font-family: 'Montserrat', Helvetica;
+  background-size: cover;
 }
 
 .header{
